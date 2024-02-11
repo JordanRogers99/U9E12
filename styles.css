@@ -1,7 +1,12 @@
+body {
+    background-color: aqua;
+}
+
 .openingwords {
     text-align: center;
     border-style:solid;
     padding: 15px;
+    background-color: beige;
 }
 
 .buttons1 {
