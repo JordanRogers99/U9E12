@@ -29,6 +29,25 @@
 }
 
 .next1 {
-    color: black;
+    color: rgb(0, 7, 101);
 }
+
+    .container2 {
+        display: flex;
+        flex-direction:row-reverse;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        height: 50vh;
+        margin-left: 150px;
+        margin-top: 15%;
+    }
+
+    .next2 {
+        color: white;
+    }
+
+    .next3 {
+        color: black;
+    }
 
