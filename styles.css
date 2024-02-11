@@ -26,6 +26,7 @@
     height: 50vh;
     margin-left: 150px;
     margin-top: 15%;
+    gap: 10px;
 }
 
 .next1 {
@@ -41,13 +42,38 @@
         height: 50vh;
         margin-left: 150px;
         margin-top: 15%;
+        gap: 10px;
     }
 
     .next2 {
         color: white;
     }
 
-    .next3 {
-        color: black;
-    }
+        .container3 {
+            display: flex;
+            flex-direction:row-reverse;
+            justify-content: center;
+            align-content: center;
+            align-items: center;
+            height: 50vh;
+            margin-left: 150px;
+            margin-top: 15%;
+            gap: 10px;
+        }
+
+        .next3 {
+            color: black;
+        }
+
+        .container4 {
+            display: flex;
+            flex-direction:row-reverse;
+            justify-content: center;
+            align-content: center;
+            align-items: center;
+            height: 50vh;
+            margin-left: 150px;
+            margin-top: 15%;
+            gap: 10px;
+        }
 
